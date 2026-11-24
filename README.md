@@ -4,13 +4,19 @@
 
 Frontend developer building responsive, carefully designed web interfaces.
 
-[Portfolio](https://modern-portfolio-4l9s.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jay-pratap-singh-bhadoria/) · [LeetCode](https://leetcode.com/u/Jaypratap-123/) · [Email](mailto:jaypratpsinghbhadoria@gmail.com)
+[Portfolio](https://modern-portfolio-4l9s.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jay-pratap-singh-bhadoria/) · [LeetCode](https://leetcode.com/u/Jaypratap-123/) · [Email](mailto:jaypratpsinghbhadoria@gmail.com) · <img src="https://komarev.com/ghpvc/?username=jaypratpsinghbhadoria&label=profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
 
 ---
 
 ## About
 
 I build interfaces with React, Tailwind CSS and JavaScript. Alongside frontend work, I've built IoT and computer vision projects using ESP32-CAM, facial recognition and OpenCV, and worked with Power BI and SQL for data analytics. I mentor with GDSC and Microsoft Learn Student Ambassadors.
+
+## Currently
+
+| Building | Learning | Open to |
+| :-- | :-- | :-- |
+| Responsive React interfaces and reusable UI components | Cloud-native AI tooling and computer vision | Collaborations, internships and open-source work |
 
 ## Skills
 
@@ -45,6 +51,22 @@ I build interfaces with React, Tailwind CSS and JavaScript. Alongside frontend w
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypratpsinghbhadoria&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
 </p>
 
+<details>
+<summary>Contribution activity</summary>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaypratpsinghbhadoria&bg_color=0d1117&color=38bdf8&line=818cf8&point=34d399&area_color=161b28&hide_border=true" alt="Contribution activity">
+</p>
+
+</details>
+
 ## Contact
 
-Open to collaborations and opportunities. Reach me at [jaypratpsinghbhadoria@gmail.com](mailto:jaypratpsinghbhadoria@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jay-pratap-singh-bhadoria/).
+Open to collaborations and opportunities.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jay-pratap-singh-bhadoria/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/jaypratpsinghbhadoria"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://leetcode.com/u/Jaypratap-123/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="mailto:jaypratpsinghbhadoria@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
