@@ -10,7 +10,9 @@
 
 ## About
 
-I build interfaces with React, Tailwind CSS and JavaScript. Alongside frontend work, I've built IoT and computer vision projects using ESP32-CAM, facial recognition and OpenCV, and worked with Power BI and SQL for data analytics. I mentor with GDSC and Microsoft Learn Student Ambassadors.
+Final-year B.Tech (IoT) engineer, Class of 2027, with an 8.8 CGPA and coursework in computer networks, database systems and software engineering.
+
+Interned at Ethara AI on LLM evaluation — reviewing 1,000+ model responses, isolating failure modes and optimizing prompts to reduce inconsistent behaviour. Comfortable with Python, JavaScript, SQL, React and Next.js, and focused on network engineering, vulnerability assessment and secure authentication.
 
 <p align="center">
   <img src="https://img.shields.io/badge/GDSC-Mentor-4285F4?style=flat-square&logo=google" alt="GDSC Mentor">
