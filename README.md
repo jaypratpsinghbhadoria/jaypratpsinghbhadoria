@@ -47,10 +47,6 @@ I build interfaces with React, Tailwind CSS and JavaScript. Alongside frontend w
 | Project | Description | Link |
 | :-- | :-- | :-- |
 | Weather Dashboard | Real-time weather app built with React and a weather API | [Live](https://jaypratpsinghbhadoria.github.io/Weather-Dashboard/) · [Code](https://github.com/jaypratpsinghbhadoria/Weather-Dashboard) |
-| Modern Portfolio | Personal portfolio site | [Live](https://modern-portfolio-4l9s.vercel.app/) |
-| Smart Attendance + Emotion Monitoring | ESP32-CAM face detection with cloud storage and a dashboard | — |
-| Direct Farmer–Consumer Market | Hackathon project with chat, payments and AI-based pricing | — |
-| Mentor–Candidate Meeting System | Booking with calendar and video-call automation | In progress |
 
 ## Activity
 
