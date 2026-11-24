@@ -6,7 +6,9 @@
 
 [Portfolio](https://modern-portfolio-4l9s.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jay-pratap-singh-bhadoria/) · [LeetCode](https://leetcode.com/u/Jaypratap-123/) · [Email](mailto:jaypratpsinghbhadoria@gmail.com) · <img src="https://komarev.com/ghpvc/?username=jaypratpsinghbhadoria&label=profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaypratpsinghbhadoria/jaypratpsinghbhadoria/main/assets/divider.svg" width="100%" alt="">
+</p>
 
 ## About
 
