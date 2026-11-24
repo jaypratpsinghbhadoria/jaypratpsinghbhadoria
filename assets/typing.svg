@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56" role="img" aria-label="Frontend engineer, LLM evaluation, security and networks">
+  <defs>
+    <style>
+      .line { opacity: 0; font: 600 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #cbd5e1; }
+      .l1 { animation: type 9s linear infinite; }
+      .l2 { animation: type 9s linear infinite 3s; }
+      .l3 { animation: type 9s linear infinite 6s; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      .dot { animation: breathe 2.4s ease-in-out infinite; }
+      @keyframes type {
+        0% { opacity: 0; clip-path: inset(0 100% 0 0); }
+        5% { opacity: 1; clip-path: inset(0 100% 0 0); }
+        28% { opacity: 1; clip-path: inset(0 0 0 0); }
+        32%, 100% { opacity: 0; clip-path: inset(0 100% 0 0); }
+      }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      @keyframes breathe { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+      @media (prefers-reduced-motion: reduce) {
+        .line, .cursor, .dot { animation: none; }
+        .l1 { opacity: 1; clip-path: none; }
+      }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="899" height="55" rx="12" fill="#0d1524" stroke="#1e293b"/>
+  <circle cx="28" cy="28" r="5" fill="#34d399" class="dot"/>
+  <text x="48" y="35" class="line l1">FRONTEND ENGINEER · REACT</text>
+  <text x="48" y="35" class="line l2">LLM EVALUATION · ETHARA AI</text>
+  <text x="48" y="35" class="line l3">SECURITY · NETWORKS · IOT</text>
+  <rect x="372" y="17" width="9" height="21" rx="2" fill="#38bdf8" class="cursor"/>
+</svg>
