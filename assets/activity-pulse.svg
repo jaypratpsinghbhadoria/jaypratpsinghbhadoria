@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80" role="img" aria-label="Activity signal: build, evaluate, secure">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .wave { stroke-dasharray: 800; stroke-dashoffset: 800; animation: draw 6s ease-in-out infinite; }
+      .label { font: 600 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #64748b; letter-spacing: 1.5px; }
+      .title { font: 600 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #94a3b8; letter-spacing: 2px; }
+      @keyframes draw {
+        0% { stroke-dashoffset: 800; }
+        45%, 70% { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: -800; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .wave { animation: none; stroke-dashoffset: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="899" height="79" rx="12" fill="#0d1524" stroke="#1e293b"/>
+  <g stroke="#1e293b" stroke-width="1">
+    <path d="M40 12 V68 M180 12 V68 M320 12 V68 M460 12 V68 M600 12 V68 M740 12 V68 M860 12 V68"/>
+  </g>
+  <text x="20" y="18" class="title">ACTIVITY SIGNAL</text>
+  <text x="70" y="73" class="label">BUILD</text>
+  <text x="390" y="73" class="label">EVALUATE</text>
+  <text x="720" y="73" class="label">SECURE</text>
+
+  <path id="signal" d="M40 44 H110 L135 27 L160 58 L190 40 H250 L275 24 L300 52 L330 40 H400 L425 30 L450 48 L480 40 H550 L575 20 L600 58 L630 40 H700 L725 32 L750 48 L780 40 H860"
+        fill="none" stroke="url(#g)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
+        pathLength="800" class="wave"/>
+
+  <circle r="4" fill="#e2e8f0" filter="url(#glow)">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M40 44 H110 L135 27 L160 58 L190 40 H250 L275 24 L300 52 L330 40 H400 L425 30 L450 48 L480 40 H550 L575 20 L600 58 L630 40 H700 L725 32 L750 48 L780 40 H860"/>
+  </circle>
+</svg>
