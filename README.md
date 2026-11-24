@@ -14,11 +14,6 @@ Final-year B.Tech (IoT) engineer, Class of 2027, with an 8.8 CGPA and coursework
 
 Interned at Ethara AI on LLM evaluation — reviewing 1,000+ model responses, isolating failure modes and optimizing prompts to reduce inconsistent behaviour. Comfortable with Python, JavaScript, SQL, React and Next.js, and focused on network engineering, vulnerability assessment and secure authentication.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GDSC-Mentor-4285F4?style=flat-square&logo=google" alt="GDSC Mentor">
-  <img src="https://img.shields.io/badge/Microsoft%20Learn-Student%20Ambassador-0078D4?style=flat-square" alt="Microsoft Learn Student Ambassador">
-</p>
-
 ## Currently
 
 | Building | Learning | Open to |
