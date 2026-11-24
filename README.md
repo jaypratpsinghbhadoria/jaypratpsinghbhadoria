@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/jaypratpsinghbhadoria/jaypratpsinghbhadoria/main/assets/banner.svg" alt="Jay Pratap Singh Bhadoria — Frontend Developer" width="100%">
 </p>
 
-**Frontend developer** building responsive, carefully designed web interfaces.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaypratpsinghbhadoria/jaypratpsinghbhadoria/main/assets/typing.svg" alt="Frontend engineer · React · LLM evaluation · Ethara AI · security · networks · IoT" width="100%">
+</p>
 
 [Portfolio](https://modern-portfolio-4l9s.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jay-pratap-singh-bhadoria/) · [LeetCode](https://leetcode.com/u/Jaypratap-123/) · [Email](mailto:jaypratpsinghbhadoria@gmail.com) · <img src="https://komarev.com/ghpvc/?username=jaypratpsinghbhadoria&label=profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
 
@@ -48,6 +50,10 @@ Interned at Ethara AI on LLM evaluation — reviewing 1,000+ model responses, is
 | Weather Dashboard | Real-time weather app built with React and a weather API | [Live](https://jaypratpsinghbhadoria.github.io/Weather-Dashboard/) · [Code](https://github.com/jaypratpsinghbhadoria/Weather-Dashboard) |
 
 ## Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaypratpsinghbhadoria/jaypratpsinghbhadoria/main/assets/activity-pulse.svg" alt="Activity signal: build, evaluate, secure" width="100%">
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaypratpsinghbhadoria&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics">
