@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/jaypratpsinghbhadoria/jaypratpsinghbhadoria/main/assets/banner.svg" alt="Jay Pratap Singh Bhadoria — Frontend Developer" width="100%">
 </p>
 
-Frontend developer building responsive, carefully designed web interfaces.
+**Frontend developer** building responsive, carefully designed web interfaces.
 
 [Portfolio](https://modern-portfolio-4l9s.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jay-pratap-singh-bhadoria/) · [LeetCode](https://leetcode.com/u/Jaypratap-123/) · [Email](mailto:jaypratpsinghbhadoria@gmail.com) · <img src="https://komarev.com/ghpvc/?username=jaypratpsinghbhadoria&label=profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
 
@@ -11,6 +11,11 @@ Frontend developer building responsive, carefully designed web interfaces.
 ## About
 
 I build interfaces with React, Tailwind CSS and JavaScript. Alongside frontend work, I've built IoT and computer vision projects using ESP32-CAM, facial recognition and OpenCV, and worked with Power BI and SQL for data analytics. I mentor with GDSC and Microsoft Learn Student Ambassadors.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GDSC-Mentor-4285F4?style=flat-square&logo=google" alt="GDSC Mentor">
+  <img src="https://img.shields.io/badge/Microsoft%20Learn-Student%20Ambassador-0078D4?style=flat-square" alt="Microsoft Learn Student Ambassador">
+</p>
 
 ## Currently
 
@@ -32,6 +37,9 @@ I build interfaces with React, Tailwind CSS and JavaScript. Alongside frontend w
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </p>
 
 ## Selected work
