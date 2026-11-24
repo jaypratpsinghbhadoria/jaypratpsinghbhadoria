@@ -6,7 +6,16 @@
   <img src="https://raw.githubusercontent.com/jaypratpsinghbhadoria/jaypratpsinghbhadoria/main/assets/typing.svg" alt="Frontend engineer · React · LLM evaluation · Ethara AI · security · networks · IoT" width="100%">
 </p>
 
-[Portfolio](https://modern-portfolio-4l9s.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jay-pratap-singh-bhadoria/) · [LeetCode](https://leetcode.com/u/Jaypratap-123/) · [Email](mailto:jaypratpsinghbhadoria@gmail.com) · <img src="https://komarev.com/ghpvc/?username=jaypratpsinghbhadoria&label=profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
+<p align="center">
+  <a href="https://modern-portfolio-4l9s.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/jay-pratap-singh-bhadoria/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/Jaypratap-123/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="mailto:jaypratpsinghbhadoria@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaypratpsinghbhadoria&label=profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jaypratpsinghbhadoria/jaypratpsinghbhadoria/main/assets/divider.svg" width="100%" alt="">
