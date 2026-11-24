@@ -1,97 +1,27 @@
-<h1 align="center">Hi 👋, I'm Jay Pratap Singh Bhadoria</h1>
-<h3 align="center">Frontend Developer | React | IoT Innovator | AI & Cloud Enthusiast</h3>
+# Jay Pratap Singh Bhadoria
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaypratpsinghbhadoria&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-</p>
+Frontend developer working with React, Tailwind CSS and JavaScript.
 
----
+[Portfolio](https://modern-portfolio-4l9s.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jay-pratap-singh-bhadoria/) · [LeetCode](https://leetcode.com/u/Jaypratap-123/) · [Email](mailto:jaypratpsinghbhadoria@gmail.com)
 
-## 🚀 About Me
-- 🔥 Passionate **Frontend Developer** (React, Tailwind, JS)
-- 🌩️ Building **premium UI web apps** & SaaS products  
-- ⚙️ Experienced with **IoT + AI projects** (ESP32 CAM, Facial Recognition)
-- 📊 Skilled in **Power BI, Data Analytics, SQL**
-- 🤝 Mentor at **GDSC & Microsoft Learn Student Ambassadors**
+## About
 
----
+I build responsive web interfaces and have worked on IoT and computer vision projects using ESP32-CAM, facial recognition and OpenCV. I also work with Power BI, SQL and data analytics, and mentor with GDSC and Microsoft Learn Student Ambassadors.
 
-## 🛠 Tech Stack
+## Skills
 
-### 🌐 **Frontend**
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP-88ce02?style=for-the-badge&logo=greensock&logoColor=white"/>
-</p>
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, GSAP
+- **Backend and tools:** Node.js, Express, Firebase, MongoDB, MySQL, Python, Postman, Git
+- **Data and IoT:** Power BI, SQL, ESP32-CAM, OpenCV, computer vision, machine learning
 
+## Projects
 
-### ⚙️ **Backend & Tools**
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+- **[Weather Dashboard](https://github.com/jaypratpsinghbhadoria/Weather-Dashboard)** — Real-time weather app built with React and a weather API. [Live demo](https://jaypratpsinghbhadoria.github.io/Weather-Dashboard/)
+- **[Modern Portfolio](https://modern-portfolio-4l9s.vercel.app/)** — Personal portfolio site.
+- **Mentor–Candidate Meeting System** — Booking system with calendar and video-call automation. In progress.
+- **Smart Attendance + Emotion Monitoring** — ESP32-CAM face detection with cloud storage and a dashboard.
+- **Direct Farmer–Consumer Market** — Hackathon project with chat, payments and AI-based pricing.
 
+## Contact
 
-### 🤖 **AI & IoT**
-<p>
-<img src="https://img.shields.io/badge/ESP32-CAM-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Vision-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🌦️ **Weather Dashboard**  
-Real-time weather app built using React + API  
-🔗 **Live:** *add link after deployment*  
-📦 **Repo:** [Weather-Dashboard](https://github.com/jaypratpsinghbhadoria/Weather-Dashboard)
-
----
-
-### 🎓 **Mentor–Candidate Meeting System**  
-Smart booking system with automated calendar + video calls.
-
----
-
-### 🧑‍🏫 **Smart Attendance + Emotion Monitoring (IoT + AI)**  
-ESP32-CAM based face detection, cloud storage & dashboard.
-
----
-
-### 🧑‍🌾 **Direct Farmer–Consumer Market App**  
-Hackathon project with real-time chat, payments, AI pricing.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jaypratpsinghbhadoria&show_icons=true&theme=tokyonight" height="150px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaypratpsinghbhadoria&theme=tokyonight" height="150px"/>
-</p>
-
----
-
-## 🔗 Connect With Me
-<p>
-<a href="https://linkedin.com/in/jay-pratap-singh-bhadoria"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:jaypratpsinghbhadoria@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-⭐ **Thanks for visiting my profile!**
+Open to collaborations and opportunities. Reach me at [jaypratpsinghbhadoria@gmail.com](mailto:jaypratpsinghbhadoria@gmail.com).
